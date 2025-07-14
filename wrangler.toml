@@ -1,0 +1,6 @@
+name = "shakuzen"
+compatibility_date = "2025-07-14"
+
+[assets]
+directory = "./build/"
+not_found_handling = "404-page"
